@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+	<meta charset="UTF-8">
+	<title>메인화면</title>
+	<script type="text/javascript">
+	
+	var UID = "sadg1";
+	
+	function getData()
+	{
+		var dataRequest = new XMLHttpRequest(); 
+		dataRequest.open('GET',
+		'https://sadgsadg97.github.io/MStimeTable/data.json'); 
+		dataRequest.send();
+		dataRequest.onload =  
+		function() 
+		{
+			var tempObj = JSON.parse(dataRequest.responseText);
+			var USER = tempObj.user;
+			var COURSE = tempObj.course;
+			var LECTURE = tempObj.lecture;
+			
+			
+		}
+	}
+	
+	
+		
+	</script>
+	</head>
+
+	<body>
+		<button onclick="getData()">데이터 불러오기</button>
+		<div id="output">...</div>
+		<div id="textArea"></div>
+		<table border="1" text ="center" id="timeTable">
+			<caption>시간표입니다.</caption>
+			<tr>
+				<th>교시</th>
+				<th>시간</th>
+				<th>월요일</th>
+				<th>화요일</th>
+				<th>수요일</th>
+				<th>목요일</th>
+				<th>금요일</th>
+			</tr>
+		</table>			
+	</body>
+
+</html>
