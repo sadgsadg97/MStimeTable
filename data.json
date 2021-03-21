@@ -137,21 +137,21 @@
 			"class": "c001",
 			"day": "월",
 			"sTime": "19:30",
-			"eTime": "19:30"
+			"eTime": "21:30"
 		},
 		{
 			"uid": "sadg1",
 			"class": "c001",
 			"day": "수",
 			"sTime": "19:30",
-			"eTime": "19:30"
+			"eTime": "21:30"
 		},
 		{
 			"uid": "sadg1",
 			"class": "c001",
 			"day": "금",
 			"sTime": "19:30",
-			"eTime": "19:30"
+			"eTime": "21:30"
 		},
 		{
 			"uid": "s_ksy",
