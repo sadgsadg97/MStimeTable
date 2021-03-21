@@ -70,7 +70,7 @@
 			"auth": 1
 		}
 	],
-	"class": [{
+	"course": [{
 			"cid": "c001",
 			"name": "수학",
 			"uid": "t_kjh"
