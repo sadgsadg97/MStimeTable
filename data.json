@@ -1,0 +1,227 @@
+{
+	"user": [{
+			"uid": "sadg1",
+			"name": "정상국",
+			"school": "MS",
+			"grade": 0,
+			"auth": 1
+		},
+		{
+			"uid": "s_ljh",
+			"name": "김지혁",
+			"school": "솔빛중",
+			"grade": 2,
+			"auth": 2
+		},
+		{
+			"uid": "t_lhw",
+			"name": "이혜원",
+			"school": "MS",
+			"grade": 2,
+			"auth": 1
+		},
+		{
+			"uid": "m_kys",
+			"name": "김용삼",
+			"school": "MS",
+			"grade": 2,
+			"auth": 0
+		},
+		{
+			"uid": "m_kmr",
+			"name": "김마리아",
+			"school": "MS",
+			"grade": 2,
+			"auth": 0
+		},
+		{
+			"uid": "s_pjs",
+			"name": "박준서",
+			"school": "오난중",
+			"grade": 1,
+			"auth": 2
+		},
+		{
+			"uid": "s_ksy",
+			"name": "김수연",
+			"school": "솔빛중",
+			"grade": 3,
+			"auth": 2
+		},
+		{
+			"uid": "s_ktk",
+			"name": "김태경",
+			"school": "황금중",
+			"grade": 1,
+			"auth": 2
+		},
+		{
+			"uid": "t_kjh",
+			"name": "김지환",
+			"school": "MS",
+			"grade": 2,
+			"auth": 1
+		},
+		{
+			"uid": "t_hma",
+			"name": "황미애",
+			"school": "MS",
+			"grade": 1,
+			"auth": 1
+		}
+	],
+	"class": [{
+			"cid": "c001",
+			"name": "수학",
+			"uid": "t_kjh"
+		},
+		{
+			"cid": "c002",
+			"name": "초등수학",
+			"uid": "m_kmr"
+		},
+		{
+			"cid": "c003",
+			"name": "영어",
+			"uid": "t_hma"
+		},
+		{
+			"cid": "c004",
+			"name": "국어",
+			"uid": "sadg1"
+		},
+		{
+			"cid": "c005",
+			"name": "사회",
+			"uid": "sadg1"
+		},
+		{
+			"cid": "c006",
+			"name": "과학",
+			"uid": "sadg1"
+		},
+		{
+			"cid": "c007",
+			"name": "프레지",
+			"uid": "t_lhw"
+		},
+		{
+			"cid": "c008",
+			"name": "디베이트",
+			"uid": "t_lhw"
+		}
+	],
+	"lecture": [{
+			"uid": "sadg1",
+			"class": "c004",
+			"day": "월",
+			"sTime": "16:00",
+			"eTime": "19:30"
+		},
+		{
+			"uid": "sadg1",
+			"class": "c005",
+			"day": "수",
+			"sTime": "16:00",
+			"eTime": "19:30"
+		},
+		{
+			"uid": "sadg1",
+			"class": "c006",
+			"day": "금",
+			"sTime": "16:00",
+			"eTime": "19:30"
+		},
+		{
+			"uid": "sadg1",
+			"class": "c001",
+			"day": "월",
+			"sTime": "19:30",
+			"eTime": "19:30"
+		},
+		{
+			"uid": "sadg1",
+			"class": "c001",
+			"day": "수",
+			"sTime": "19:30",
+			"eTime": "19:30"
+		},
+		{
+			"uid": "sadg1",
+			"class": "c001",
+			"day": "금",
+			"sTime": "19:30",
+			"eTime": "19:30"
+		},
+		{
+			"uid": "s_ksy",
+			"class": "c007",
+			"day": "목",
+			"sTime": "17:00",
+			"eTime": "18:00"
+		},
+		{
+			"uid": "s_ksy",
+			"class": "c008",
+			"day": "금",
+			"sTime": "17:00",
+			"eTime": "18:00"
+		},
+		{
+			"uid": "t_lhw",
+			"class": "c004",
+			"day": "월",
+			"sTime": "16:00",
+			"eTime": "19:30"
+		},
+		{
+			"uid": "t_lhw",
+			"class": "c005",
+			"day": "수",
+			"sTime": "16:00",
+			"eTime": "19:30"
+		},
+		{
+			"uid": "t_lhw",
+			"class": "c006",
+			"day": "금",
+			"sTime": "16:00",
+			"eTime": "19:30"
+		},
+		{
+			"uid": "t_lhw",
+			"class": "c007",
+			"day": "목",
+			"sTime": "17:00",
+			"eTime": "18:00"
+		},
+		{
+			"uid": "t_lhw",
+			"class": "c008",
+			"day": "금",
+			"sTime": "17:00",
+			"eTime": "18:00"
+		},
+		{
+			"uid": "s_ksy",
+			"class": "c001",
+			"day": "월",
+			"sTime": "21:00",
+			"eTime": "23:00"
+		},
+		{
+			"uid": "s_ksy",
+			"class": "c001",
+			"day": "수",
+			"sTime": "21:00",
+			"eTime": "23:00"
+		},
+		{
+			"uid": "s_ksy",
+			"class": "c001",
+			"day": "금",
+			"sTime": "21:00",
+			"eTime": "23:00"
+		}
+	]
+}
