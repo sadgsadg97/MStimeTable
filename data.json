@@ -120,6 +120,13 @@
 		},
 		{
 			"uid": "sadg1",
+			"class": "c004",
+			"day": "목",
+			"sTime": "19:30",
+			"eTime": "21:30"
+		},
+		{
+			"uid": "sadg1",
 			"class": "c005",
 			"day": "수",
 			"sTime": "16:00",
