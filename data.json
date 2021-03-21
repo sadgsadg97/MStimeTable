@@ -113,119 +113,119 @@
 	],
 	"lecture": [{
 			"uid": "sadg1",
-			"class": "c004",
+			"cid": "c004",
 			"day": "월",
 			"sTime": "16:00",
 			"eTime": "19:30"
 		},
 		{
 			"uid": "sadg1",
-			"class": "c004",
+			"cid": "c004",
 			"day": "목",
 			"sTime": "19:30",
 			"eTime": "21:30"
 		},
 		{
 			"uid": "sadg1",
-			"class": "c005",
+			"cid": "c005",
 			"day": "수",
 			"sTime": "16:00",
 			"eTime": "19:30"
 		},
 		{
 			"uid": "sadg1",
-			"class": "c006",
+			"cid": "c006",
 			"day": "금",
 			"sTime": "16:00",
 			"eTime": "19:30"
 		},
 		{
 			"uid": "sadg1",
-			"class": "c001",
+			"cid": "c001",
 			"day": "월",
 			"sTime": "19:30",
 			"eTime": "21:30"
 		},
 		{
 			"uid": "sadg1",
-			"class": "c001",
+			"cid": "c001",
 			"day": "수",
 			"sTime": "19:30",
 			"eTime": "21:30"
 		},
 		{
 			"uid": "sadg1",
-			"class": "c001",
+			"cid": "c001",
 			"day": "금",
 			"sTime": "19:30",
 			"eTime": "21:30"
 		},
 		{
 			"uid": "s_ksy",
-			"class": "c007",
+			"cid": "c007",
 			"day": "목",
 			"sTime": "17:00",
 			"eTime": "18:00"
 		},
 		{
 			"uid": "s_ksy",
-			"class": "c008",
+			"cid": "c008",
 			"day": "금",
 			"sTime": "17:00",
 			"eTime": "18:00"
 		},
 		{
 			"uid": "t_lhw",
-			"class": "c004",
+			"cid": "c004",
 			"day": "월",
 			"sTime": "16:00",
 			"eTime": "19:30"
 		},
 		{
 			"uid": "t_lhw",
-			"class": "c005",
+			"cid": "c005",
 			"day": "수",
 			"sTime": "16:00",
 			"eTime": "19:30"
 		},
 		{
 			"uid": "t_lhw",
-			"class": "c006",
+			"cid": "c006",
 			"day": "금",
 			"sTime": "16:00",
 			"eTime": "19:30"
 		},
 		{
 			"uid": "t_lhw",
-			"class": "c007",
+			"cid": "c007",
 			"day": "목",
 			"sTime": "17:00",
 			"eTime": "18:00"
 		},
 		{
 			"uid": "t_lhw",
-			"class": "c008",
+			"cid": "c008",
 			"day": "금",
 			"sTime": "17:00",
 			"eTime": "18:00"
 		},
 		{
 			"uid": "s_ksy",
-			"class": "c001",
+			"cid": "c001",
 			"day": "월",
 			"sTime": "21:00",
 			"eTime": "23:00"
 		},
 		{
 			"uid": "s_ksy",
-			"class": "c001",
+			"cid": "c001",
 			"day": "수",
 			"sTime": "21:00",
 			"eTime": "23:00"
 		},
 		{
 			"uid": "s_ksy",
-			"class": "c001",
+			"cid": "c001",
 			"day": "금",
 			"sTime": "21:00",
 			"eTime": "23:00"
